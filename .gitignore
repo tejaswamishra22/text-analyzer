@@ -6,3 +6,5 @@ target/
 .vscode/
 .DS_Store
 EOF
+.postman/
+postman/
